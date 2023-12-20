@@ -14,7 +14,6 @@
     <li>Internet Computer Canister SDK</li>
     <li>DFINITY Canister SDK</li>
     <li>Motoko Compiler</li>
-    <li>HTML, CSS, JavaScript and any editor of your choice (e.g., Visual Studio Code,atom,Intellij;)</li>
  </ol>
  <br>
  <h3>Getting started</h3>
